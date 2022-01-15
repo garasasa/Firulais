@@ -1,6 +1,25 @@
 nav{
     margin: 0;
     padding: 0;
-    position:relative;
+    position:fixed;
     background-color: transparent;
+    box-shadow: 0 5 px 10px #ada7a7;
+
+}
+
+.navbar{
+    box-shadow: 0 5 px 10px #ada7a7;
+}
+main{
+    margin-top: 80px;
+    padding: 50px;
+}
+
+.button-Lost{
+    font-size: 19px;
+}
+
+.buttons-LostFound {
+    font-size: 19px;
+    display: flex;
 }
